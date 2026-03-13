@@ -53,20 +53,20 @@ Click the Colab badge to open any notebook directly in Google Colab. No installa
 | Week | Topic | Open in Colab |
 |------|-------|:---:|
 | 1 | Python, NumPy & Matplotlib | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week01_Lab.ipynb) |
-| 2 | Pandas & Seaborn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week02_Lab.ipynb) |
-| 3 | Object-Oriented Programming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week03_Lab.ipynb) |
-| 4 | Muscle Synergies & PCA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week04_Lab.ipynb) |
-| 5 | Logistic Regression & Evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week05_Lab.ipynb) |
-| 6 | GLMs — Muscles to Neurons | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week06_Lab.ipynb) |
-| 7 | Naive Bayes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week07_Lab.ipynb) |
-| 8 | K-Nearest Neighbors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week08_Lab.ipynb) |
-| 9 | Support Vector Machines | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week09_Lab.ipynb) |
-| 10 | Linear Discriminant Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week10_Lab.ipynb) |
-| 10+ | LDA — Advanced | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week10_Lab_Advanced.ipynb) |
-| 11 | Random Forests | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week11_Lab.ipynb) |
-| 12 | K-Means & GMMs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week12_Lab.ipynb) |
-| 13 | Neural Networks — Concepts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week13_Lab.ipynb) |
-| 14 | Temporal Features | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week14_Lab.ipynb) |
+| 2 | Pandas & Seaborn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week02_Lab.ipynb) |
+| 3 | Object-Oriented Programming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week03_Lab.ipynb) |
+| 4 | Muscle Synergies & PCA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week04_Lab.ipynb) |
+| 5 | Logistic Regression & Evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week05_Lab.ipynb) |
+| 6 | GLMs — Muscles to Neurons | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week06_Lab.ipynb) |
+| 7 | Naive Bayes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week07_Lab.ipynb) |
+| 8 | K-Nearest Neighbors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week08_Lab.ipynb) |
+| 9 | Support Vector Machines | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week09_Lab.ipynb) |
+| 10 | Linear Discriminant Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week10_Lab.ipynb) |
+| 10+ | LDA — Advanced | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week10_Lab_Advanced.ipynb) |
+| 11 | Random Forests | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week11_Lab.ipynb) |
+| 12 | K-Means & GMMs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week12_Lab.ipynb) |
+| 13 | Neural Networks — Concepts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week13_Lab.ipynb) |
+| 14 | Temporal Features | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week14_Lab.ipynb) |
 
 
 ## Data Files
@@ -89,7 +89,7 @@ Each notebook includes a data download cell at the top. If running locally, plac
 # Change the filename to match the week (week4, week6, week8, or week14)
 import os, urllib.request
 if not os.path.exists('week8_data.pkl'):
-    base = 'https://github.com/tarkeshsingh/ml-neuroscience-course/raw/main/data/'
+    base = 'https://github.com/tarkeshsingh/ml-sensorimotor_neuroscience/raw/main/data/'
     for f in ['week8_data.pkl']:
         urllib.request.urlretrieve(base + f, f)
         print(f'Downloaded {f}')
@@ -146,4 +146,4 @@ Full reading list with annotations is in the [syllabus](syllabus/ML_Neuroscience
 
 If you use these materials in your teaching or research, please cite:
 
-> Tarkesh Singh. *Machine Learning for Neuroscience: Graduate Course Materials.* GitHub, 2026. https://github.com/tarkeshsingh/ml-neuroscience-course
+> Tarkesh Singh. *Machine Learning for Neuroscience: Graduate Course Materials.* GitHub, 2026. https://github.com/tarkeshsingh/ml-sensorimotor_neuroscience
