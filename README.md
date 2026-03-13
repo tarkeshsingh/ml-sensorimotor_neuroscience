@@ -136,7 +136,7 @@ pip install torch  # Weeks 13–14 only
 | 14 | Pandarinath et al. (2018). LFADS for neural population dynamics. *Nat Methods* |
 | 15 | Obermeyer et al. (2019). Racial bias in healthcare algorithms. *Science* |
 
-Full reading list with annotations is in the [syllabus](syllabus/ML_Neuroscience_Syllabus.docx).
+Full reading list with annotations is in the [syllabus](syllabus/ML_Neuroscience_Syllabus.pdf).
 
 ## License
 
