@@ -129,7 +129,7 @@ pip install torch  # Weeks 13–14 only
 | 4 | Tresch, Cheung & d'Avella (2006). Matrix factorization for muscle synergies. *J Neurophysiol* |
 | 5 | Glaser et al. (2019). Supervised ML in systems neuroscience. *Prog Neurobiol* |
 | 6 | Georgopoulos et al. (1982). Direction and arm movements in motor cortex. *J Neurosci* |
-| 9 | Wolpaw et al. (2002). Brain–computer interfaces. *Clin Neurophysiol* |
+| 9 | Quitadamo et al. (2017). SVMs for EEG and EMG. *J Neural Eng* |
 | 10 | Eluchans et al. (2025). Eye–hand coarticulation and hierarchical planning. *J Neurophysiol* |
 | 12 | Gallego et al. (2017). Neural manifolds for movement control. *Neuron* |
 | 14 | Pandarinath et al. (2018). LFADS for neural population dynamics. *Nat Methods* |
