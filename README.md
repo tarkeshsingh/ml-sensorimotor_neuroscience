@@ -52,7 +52,7 @@ Click the Colab badge to open any notebook directly in Google Colab. No installa
 
 | Week | Topic | Open in Colab |
 |------|-------|:---:|
-| 1 | Python, NumPy & Matplotlib | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week01_Lab.ipynb) |
+| 1 | Python, NumPy & Matplotlib | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-sensorimotor_neuroscience/blob/main/labs/Week01_Lab.ipynb) |
 | 2 | Pandas & Seaborn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week02_Lab.ipynb) |
 | 3 | Object-Oriented Programming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week03_Lab.ipynb) |
 | 4 | Muscle Synergies & PCA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tarkeshsingh/ml-neuroscience-course/blob/main/labs/Week04_Lab.ipynb) |
